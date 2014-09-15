@@ -10,4 +10,5 @@ Checklist for Heroku deployment
 * If your application has Facebook, Google authentication, make sure you have configured correctly.
 * Check if the mailer works.
 * Tag your release to know exactly which code is running in production.
+* Check your background jobs, cron tasks settings.
 
