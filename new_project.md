@@ -12,6 +12,8 @@ Checklist for your new project
 
 * Use the latest version of Rails.
 * Use the latest version of RSpec.
+* Add ruby version to your Gemfile.
+* Remove the `test` folder of MiniTest.
 * Select the right gemset if you're using RubyMine.
 * Config your database if you're using Postgres.
 * Make sure there are `production` and `staging` branches.
