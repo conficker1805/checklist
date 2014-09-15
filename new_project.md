@@ -5,9 +5,9 @@ Checklist for your new project
 
 ```sh
   touch .ruby-version
-  echo ruby-[latest-version]
+  echo ruby-[latest-version] > .ruby-version
   touch .ruby-gemset
-  echo [your-gemset]
+  echo [your-gemset] > .ruby-gemset
 ```
 
 * Use the latest version of Rails.
