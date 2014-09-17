@@ -1,2 +1,0 @@
-New coder training checklist
-=========
