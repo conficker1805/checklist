@@ -18,13 +18,30 @@ Please follow the steps below to set your mac for Ruby development
     
 ####List of command-line applications need to be install (After install iTerm2 and Homebrew)
 
-1. [Homebrew](http://brew.sh/#install) - The package manager for 
+1. [Homebrew](http://brew.sh/#install) - The packages manager for Mac
     
     Open iTerm and run this command
     
-    `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)`
+    ```sh
+    ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    ```
     
     Run `brew doctor` to make sure that you are really ready to brew.
 
+2. [RVM](http://rvm.io/) - Ruby version manager
+    
+    Run this command in your terminal to install RVM and the latest version of Ruby
 
-
+    ```sh
+    \curl -sSL https://get.rvm.io | bash -s stable
+    ```
+    
+    Check if the  `rvm --version`
+    
+3. [Heroku Toolbelt](https://toolbelt.heroku.com/)
+4. [NodeJS](http://nodejs.org/) - NodeJS is shipped with MacOS so you just need to upgrade it
+    
+    ```sh
+    brew upgrade node
+    ```
+    
