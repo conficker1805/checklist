@@ -6,7 +6,8 @@ Please follow the steps below to set your mac for Ruby development
 
 1. Sign up an Apple account and set it to your computer.
 2. Set up an [Github](http://github.com) account. (Your personal account is allowed).
-3. Set up an [Pivotal Tracker](http://pivotaltracker.com) account.
+3. Set up a [Pivotal Tracker](http://pivotaltracker.com) account.
+4. Set up a [Heroku](http://heroku.com) account.
 
 ####List of applications needed to be install
 
@@ -36,7 +37,7 @@ Please follow the steps below to set your mac for Ruby development
     \curl -sSL https://get.rvm.io | bash -s stable
     ```
     
-    Check if the  `rvm --version`
+    Check if the  `rvm --version` works
     
 3. [Heroku Toolbelt](https://toolbelt.heroku.com/)
 4. [NodeJS](http://nodejs.org/) - NodeJS is shipped with MacOS so you just need to upgrade it
