@@ -15,8 +15,16 @@ Please follow the steps below to set your mac for Ruby development
 3. [RubyMine](https://www.jetbrains.com/ruby/) latest version. (You may want to install Java).
 4. [Postgres app](http://postgresapp.com/).
 5. [Source Tree](http://www.sourcetreeapp.com/).
-6. [Homebrew](http://brew.sh/#install).
-  `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+    
+####List of command-line applications need to be install (After install iTerm2 and Homebrew)
 
-####List of command-line applications need to be install
+1. [Homebrew](http://brew.sh/#install) - The package manager for 
+    
+    Open iTerm and run this command
+    
+    `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)`
+    
+    Run `brew doctor` to make sure that you are really ready to brew.
+
+
 
