@@ -1,18 +1,17 @@
 # Neember Front-end test
-============
 
 ### HTML/CSS
 
-#### Requirements:
+###### Requirements:
 
 Build the following layouts (Blog page and Sign up page)
 Follow HTML5 standard.
 No CSS framework allowed.
 Lesser HTML markups means better.
 
-#### Blog Page
+###### Blog Page
 
-#### Sign-up Page
+###### Sign-up Page
 
 
 ### Javascript
