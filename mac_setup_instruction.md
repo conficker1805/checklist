@@ -16,6 +16,7 @@ Please follow the steps below to set your mac for Ruby development
 3. [RubyMine](https://www.jetbrains.com/ruby/) latest version. (You may want to install Java).
 4. [Postgres app](http://postgresapp.com/).
 5. [Source Tree](http://www.sourcetreeapp.com/).
+6. [ShiftIt](https://github.com/fikovnik/ShiftIt/downloads).
     
 ####List of command-line applications need to be install (After install iTerm2 and Homebrew)
 
