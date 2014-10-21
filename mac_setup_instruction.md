@@ -48,7 +48,8 @@ Please follow the steps below to set your mac for Ruby development
     // or
     brew upgrade node
     ```
-5. QT
+5. QT - Needed to run Capybara
+
     ```sh
     brew install qt
     ```
