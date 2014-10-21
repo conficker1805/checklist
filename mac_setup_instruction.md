@@ -44,6 +44,12 @@ Please follow the steps below to set your mac for Ruby development
 4. [NodeJS](http://nodejs.org/) - NodeJS is shipped with MacOS so you just need to upgrade it
     
     ```sh
+    brew install node
+    // or
     brew upgrade node
+    ```
+5. QT
+    ```sh
+    brew install qt
     ```
     
