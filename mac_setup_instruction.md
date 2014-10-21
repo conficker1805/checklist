@@ -53,4 +53,8 @@ Please follow the steps below to set your mac for Ruby development
     ```sh
     brew install qt
     ```
+6. ImageMagick - Needed to run Paperclip    
     
+    ```sh
+    brew install imagemagick
+    ```
