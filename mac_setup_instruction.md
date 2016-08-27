@@ -35,6 +35,7 @@ Please follow the steps below to set your mac for Ruby development
     Run this command in your terminal to install RVM and the latest version of Ruby
 
     ```sh
+    brew install gpg2
     \curl -sSL https://get.rvm.io | bash -s stable
     ```
     
